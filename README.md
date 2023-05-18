@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++**
 
-- ⚡ Fun fact **I think I am pro player**
+- ⚡ Fun fact **I think I am pro player 😄 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
