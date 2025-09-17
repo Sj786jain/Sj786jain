@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Jain</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<br></br>
 <img align="right" alt="coding" width="400" src="https://github.com/SanketJain7/SanketJain7/assets/117138839/17e21fc3-6c28-4bc0-ad6a-cbfe2d1d04d3"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketjain7&label=Profile%20views&color=0e75b6&style=flat" alt="sanketjain7" /> </p>
